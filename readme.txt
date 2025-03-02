@@ -1,6 +1,6 @@
 Bootstrap Responsive Template
 
-I am HTML5 responsive portfolio resume template is clean multi purpose template suits a profissional designer or developer in IT industry, such as webdesigner, web developr, UX/UI Developer, Programmer’s portfolio. This is a responsive web template you can use for personal portfolio’s websites to showcase your work and CV or Resume template. This template is built on top of Bootstrap html5 css3 which give flexibilty to customeise the theme easly as per the user requirements. 
+I am HTML5 responsive portfolio resume template is clean multi purpose template suits a profissional designer or developer in IT industry, such as webdesigner, web developr, UX/UI Developer, Programmerâ€™s portfolio. This is a responsive web template you can use for personal portfolioâ€™s websites to showcase your work and CV or Resume template. This template is built on top of Bootstrap html5 css3 which give flexibilty to customeise the theme easly as per the user requirements. 
 
 
 Key features
@@ -29,6 +29,7 @@ Important Note:
 ---------------
 To remove backlink from the template, you need to donate to remove the backlink from the template.
 Any question contact us: webthemez@gmail.com
+Update for redeploy
 
 
 License :
